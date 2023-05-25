@@ -407,19 +407,22 @@ int main(int argc, char **argv)
 ## Output:
 ### block.x = 513
  ![Screenshot from 2023-05-12 09-28-36](https://github.com/Kumaravel655/gpu-vectorsummation/assets/75235334/bd1747a4-9255-4c6f-8e2b-71b1309c04cb)
+ 
 
 ```
 Sum Arrays on Host :  0.032970 sec.
 Sum Arrays on GPU : 0.0.020660 sec.
 ```
 ### block.x = 1022
- 
+![WhatsApp Image 2023-05-25 at 10 36 29 AM (1)](https://github.com/Kumaravel655/gpu-vectorsummation/assets/75235334/91cff213-2688-443c-9ffb-56b9788603c5)
+
 ```
 Sum Arrays on Host :  0.033150 sec.
 Sum Arrays on GPU : 0.020461 sec.
 ```
 ### block.x = 259
-![Uploading Screenshot from 2023-05-12 09-19-15.png…]()
+  ![WhatsApp Image 2023-05-25 at 10 36 30 AM](https://github.com/Kumaravel655/gpu-vectorsummation/assets/75235334/a87a4c4c-e6fd-49b8-80d7-f010949cbd5b)
+
 
 ```
 Sum Arrays on Host : 0.414636 sec.
