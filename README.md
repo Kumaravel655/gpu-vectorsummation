@@ -154,7 +154,7 @@ int main(int argc, char **argv)
 ### block.x = 1022
 #### Name : Kumaravel V
 #### Register No : 212220230027
-```pyhton
+```python
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
